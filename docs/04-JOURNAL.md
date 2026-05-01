@@ -101,3 +101,12 @@ Criamos a tela de detalhe que exibe o progresso real do aluno dentro de uma jorn
 - **Novos Elementos UI:** "Banner de Unidade" (Verde) e "Popup de Começar" sobre o nó ativo.
 
 **Próximo Passo:** Adicionar animações de transição entre as abas para melhorar a fluidez.
+
+## 01 de maio de 2026 (Conteúdo)
+### 📝 Início da Fase 0.2: Prototipagem de Conteúdo
+Iniciamos a estruturação das jornadas no formato Markdown para Obsidian.
+- **Material de Referência:** Recebido o arquivo `736134155-Panorama-Biblico-2024.pdf` na pasta de inspiração.
+- **Estratégia:** O conteúdo será organizado hierarquicamente (Jornada > Seção > Trilha > Tema > Lição) com metadados YAML para futura automação com Supabase.
+- **Versionamento:** Git inicializado e progresso do design salvo.
+
+**Próximo Passo:** Analisar o PDF e gerar a estrutura de pastas da primeira jornada.
