@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Romper - Trilha de Aprendizado</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Status Bar -->
+        <header class="app-header">
+            <div class="user-status">
+                <div class="brand">
+                    <span class="logo-icon">🕊️</span>
+                    <span class="brand-name">ROMPER</span>
+                </div>
+                <div class="stats">
+                    <div class="stat-item streak">
+                        <span>🔥</span>
+                        <span class="stat-value">7</span>
+                    </div>
+                    <div class="stat-item gems">
+                        <span>💎</span>
+                        <span class="stat-value">340</span>
+                    </div>
+                    <div class="stat-item hearts">
+                        <span>❤️</span>
+                        <span class="stat-value">5</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="content">
+            <!-- ABA 1: INÍCIO (HUB) -->
+            <div id="home-hub" class="tab-content active">
+                <!-- Seção 1: Devocional Diário -->
+                <section class="hub-section devotional">
+                    <div class="section-header">
+                        <h2>Devocional de Hoje</h2>
+                        <span class="date">01 Mai</span>
+                    </div>
+                    <div class="devotional-card">
+                        <div class="devotional-content">
+                            <h3>"A Luz do Mundo"</h3>
+                            <p>João 8:12 - "Eu sou a luz do mundo; quem me segue..."</p>
+                        </div>
+                        <button class="btn-read">LER AGORA</button>
+                    </div>
+                </section>
+
+                <!-- Seção 2: Avanço Rápido -->
+                <section class="hub-section progress-section">
+                    <div class="section-header">
+                        <h2>Seu Avanço</h2>
+                        <a href="#" class="see-all" data-tab="map-screen">Ir para o Mapa</a>
+                    </div>
+                    <!-- Meta Diária Compacta -->
+                    <div class="daily-goal-mini">
+                         <div class="goal-info-mini">
+                            <span class="label">Meta Diária</span>
+                            <div class="mini-bar"><div class="fill" style="width: 66%"></div></div>
+                         </div>
+                         <span class="goal-status">2/3</span>
+                    </div>
+                    
+                    <div class="unit-card-mini">
+                        <span class="unit-num">UNIDADE 2</span>
+                        <h3>Os Patriarcas</h3>
+                        <a href="lesson.html" class="btn-continue">CONTINUAR LIÇÃO ⭐</a>
+                    </div>
+                </section>
+
+                <!-- Seção 3: Comunidade -->
+                <section class="hub-section community">
+                    <div class="section-header">
+                        <h2>Comunidade</h2>
+                        <span class="online-count">● 12 ativos</span>
+                    </div>
+                    <div class="community-preview">
+                        <div class="post-mini">
+                            <div class="user-avatar" style="background-image: url('https://i.pravatar.cc/150?u=1')"></div>
+                            <p><strong>Célula Betel:</strong> "O estudo de ontem foi incrível! 🙏"</p>
+                        </div>
+                        <div class="post-mini">
+                            <div class="user-avatar" style="background-image: url('https://i.pravatar.cc/150?u=2')"></div>
+                            <p><strong>Lucas:</strong> Completou o livro de Gênesis! 🏆</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- ABA 2: MAPA (TRILHA ATUAL) -->
+            <div id="map-screen" class="tab-content">
+                <div class="map-header-simple">
+                    <h2 id="current-journey-name">Panorama Bíblico</h2>
+                </div>
+
+                <div class="unit-banner">
+                    <div class="unit-info">
+                        <span class="unit-tag">UNIDADE 2</span>
+                        <h3>Os Patriarcas</h3>
+                    </div>
+                    <div class="unit-trophy">🏆</div>
+                </div>
+
+                <section class="learning-path zigzag">
+                    <!-- Nó 1 (Esquerda) -->
+                    <div class="node-container completed pos-left">
+                        <div class="node-button"><span class="icon">📖</span></div>
+                        <span class="node-label">Criação</span>
+                    </div>
+
+                    <!-- Nó 2 (Centro) -->
+                    <div class="node-container completed pos-center">
+                        <div class="node-line"></div>
+                        <div class="node-button"><span class="icon">📖</span></div>
+                        <span class="node-label">Adão e Eva</span>
+                    </div>
+
+                    <!-- Nó 3 (Direita) -->
+                    <div class="node-container active pos-right">
+                        <div class="node-line"></div>
+                        <a href="lesson.html" class="node-button"><span class="icon">⭐</span></a>
+                        <div class="current-popup">COMEÇAR</div>
+                    </div>
+
+                    <!-- Nó 4 (Centro) -->
+                    <div class="node-container locked pos-center">
+                        <div class="node-line"></div>
+                        <div class="node-button"><span class="icon">🔒</span></div>
+                        <span class="node-label">Dilúvio</span>
+                    </div>
+                </section>
+            </div>
+
+            <!-- ABA 3: JORNADAS (CATÁLOGO) -->
+            <div id="jornadas-screen" class="tab-content">
+                <section class="hub-section">
+                    <div class="section-header">
+                        <h2>Catálogo de Jornadas</h2>
+                    </div>
+                    
+                    <div class="journey-list">
+                        <div class="journey-card clickable" data-journey="panorama">
+                            <div class="journey-icon" style="background: #2a5a2a;">📖</div>
+                            <div class="journey-details">
+                                <h3>Panorama Bíblico</h3>
+                                <p>Uma visão completa de Gênesis a Apocalipse.</p>
+                                <div class="journey-progress">
+                                    <div class="mini-bar"><div class="fill" style="width: 45%"></div></div>
+                                    <span>45%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="journey-card clickable" data-journey="fundamentos">
+                            <div class="journey-icon" style="background: #5a2a2a;">⚓</div>
+                            <div class="journey-details">
+                                <h3>Fundamentos da Fé</h3>
+                                <p>Os pilares essenciais da vida cristã.</p>
+                                <div class="journey-progress">
+                                    <div class="mini-bar"><div class="fill" style="width: 15%"></div></div>
+                                    <span>15%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- ABA 4: DEVOCIONAL (TELA CHEIA) -->
+            <div id="devocional-screen" class="tab-content">
+                <section class="hub-section">
+                    <div class="section-header">
+                        <h2>Devocional Diário</h2>
+                    </div>
+                    <div class="devotional-full-card">
+                        <span class="dev-date">01 de Maio de 2026</span>
+                        <h1>A Luz que Ilumina o Caminho</h1>
+                        <p class="verse">"Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida." - João 8:12</p>
+                        <div class="dev-text">
+                            <p>Jesus se apresenta como a solução para a escuridão da alma. Segui-lo não é apenas uma decisão intelectual, mas uma mudança de direção na caminhada...</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- ABA 5: BÍBLIA -->
+            <div id="biblia-screen" class="tab-content">
+                <section class="hub-section">
+                    <div class="section-header">
+                        <h2>Bíblia Sagrada</h2>
+                    </div>
+                    <div class="bible-selector">
+                        <div class="bible-book-card">Gênesis</div>
+                        <div class="bible-book-card">Êxodo</div>
+                        <div class="bible-book-card">Levítico</div>
+                        <p style="text-align:center; color:var(--text-secondary); margin-top:20px;">Protótipo: Seletor de livros em desenvolvimento.</p>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <!-- Navigation Bar -->
+        <nav class="bottom-nav">
+            <a href="#" class="nav-item active" data-tab="home-hub">
+                <span class="nav-icon">🏠</span>
+                <span class="nav-text">Início</span>
+            </a>
+            <a href="#" class="nav-item" data-tab="jornadas-screen">
+                <span class="nav-icon">📚</span>
+                <span class="nav-text">Jornadas</span>
+            </a>
+            <div class="nav-main-btn" data-tab="map-screen">
+                <div class="nav-icon-container">
+                    <span class="nav-icon">🗺️</span>
+                </div>
+                <span class="nav-text">Trilha</span>
+            </div>
+            <a href="#" class="nav-item" data-tab="devocional-screen">
+                <span class="nav-icon">🙏</span>
+                <span class="nav-text">Devocional</span>
+            </a>
+            <a href="#" class="nav-item" data-tab="biblia-screen">
+                <span class="nav-icon">📖</span>
+                <span class="nav-text">Bíblia</span>
+            </a>
+        </nav>
+    </div>
+    <script src="js/main.js"></script>
+</body>
+</html>
