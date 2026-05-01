@@ -1,15 +1,18 @@
 ---
 tags: [projeto/tecnico]
----
 # 🏗️ Arquitetura do Projeto Romper
 
-## 📍 Nível Zero: Prototipagem Visual (Fase Atual)
-Antes da implementação do framework (Next.js), o projeto inicia na Fase Zero para garantir a excelência da Experiência do Usuário (UX) e a fidelidade da Interface (UI).
-- **Objetivo:** Validar o fluxo de navegação e o "look and feel" usando HTML/CSS estático.
-- **Ferramenta de Visualização:** Live Server.
-- **Entregáveis:** Protótipos das telas core (Dashboard, Player de Vídeo, Mapa da Bíblia).
+## 📍 Metodologia: Prototipagem em Camadas
+O desenvolvimento do Romper segue um ciclo de validação progressiva antes da codificação final:
 
-## 1. Design (Identidade e Interface)
+1.  **Fase 0.1 - Prototipagem Visual (Concluído):** Definição de UI/UX, Design System e navegação base (HTML/CSS).
+2.  **Fase 0.2 - Prototipagem de Conteúdo (Fase Atual):** Estruturação de dados, curadoria de lições, formatação de devocionais e modelagem da Bíblia.
+3.  **Fase 0.3 - Prototipagem de Gamificação:** Definição de regras de XP, Streaks, Ligas e feedbacks de progresso.
+
+---
+
+## 1. Design (Identidade e Interface) - [Status: Validado]
+... (restante do conteúdo mantido)
 Responsável pela materialização visual da marca e pela usabilidade.
 - **Identidade Visual:** Sistema de cores, tipografia e iconografia (foco em modernidade e autoridade bíblica).
 - **Design System:** Biblioteca de componentes reutilizáveis (UI Kit) para consistência entre Web e futuros apps.
