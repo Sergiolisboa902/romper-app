@@ -1,24 +1,22 @@
-import { ContentParser } from './js/content-parser.js';
+import { ContentParser } from './content-parser.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
+    console.log('Iniciando carregamento da lição...');
     const container = document.getElementById('exercise-render');
-    const headerTitle = document.querySelector('.exercise-type');
-    const questionText = document.querySelector('.question');
-    const optionsList = document.querySelector('.options-list');
-    const progressFill = document.querySelector('.progress-bar-fill');
-
-    // No protótipo, vamos carregar a lição de Gênesis que criamos
+    
+    // Caminho relativo a partir de /prototype/lesson.html
     const lessonPath = '../content/jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md';
     
+    console.log('Buscando arquivo em:', lessonPath);
     const lessonData = await ContentParser.loadLesson(lessonPath);
     
-    if (!lessonData) {
-        container.innerHTML = '<p>Erro ao carregar conteúdo.</p>';
+    if (!lessonData || lessonData.blocks.length === 0) {
+        console.error('Falha ao processar dados da lição:', lessonData);
+        document.querySelector('.question').textContent = 'Erro ao carregar o arquivo Markdown. Verifique o console (F12).';
         return;
     }
 
-    // Título da lição
-    document.title = `Romper - ${lessonData.metadata.titulo}`;
+    console.log('Lição carregada com sucesso:', lessonData.metadata.titulo);
 
     // Lógica de "Playlist" de blocos (para o protótipo, mostraremos um de cada vez ou todos em sequência)
     // Vamos focar em renderizar o primeiro bloco de pergunta encontrado como exemplo
