@@ -11,14 +11,10 @@
             "id": "39e13a33cbd7128a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01-a-criacao"
+              "title": "Nova aba"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para 01-a-criacao"
+              "title": "Links inversos"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de 01-a-criacao"
+              "title": "Links Externos"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de 01-a-criacao"
+              "title": "Índice"
             }
           }
         ]
@@ -185,6 +178,11 @@
   },
   "active": "39e13a33cbd7128a",
   "lastOpenFiles": [
+    "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
+    "jornadas/panorama-biblico/01 - Gênesis - A Criação.md",
+    "jornadas/panorama-biblico/Tema - Gênesis.md",
+    "jornadas/panorama-biblico/Trilha - Pentateuco.md",
+    "jornadas/panorama-biblico/Jornada - Panorama Bíblico.md",
     "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/_tema.md"
   ]
 }
