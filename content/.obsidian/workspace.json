@@ -8,16 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39e13a33cbd7128a",
+            "id": "fe48c0923545ecba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jornadas/panorama-biblico/01-01-01-01-a-criacao.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01-01-01-01-a-criacao"
+            }
+          },
+          {
+            "id": "dd38abf9a46d364d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jornadas/panorama-biblico/01-01-01-01-a-criacao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-01-01-01-a-criacao"
+            }
+          },
+          {
+            "id": "184546c92430fb2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jornadas/panorama-biblico/01-01-01-01-a-criacao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-01-01-01-a-criacao"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "jornadas/panorama-biblico/01-01-01-02-adao-e-eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Backlinks para 01-01-01-02-adao-e-eva"
             }
           },
           {
@@ -108,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "jornadas/panorama-biblico/Pentateuco/03-teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links Externos"
+              "title": "Links externos de 03-teste"
             }
           },
           {
@@ -150,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "jornadas/panorama-biblico/Pentateuco/03-teste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice"
+              "title": "Índice de 03-teste"
             }
           }
         ]
@@ -176,12 +212,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "39e13a33cbd7128a",
+  "active": "184546c92430fb2b",
   "lastOpenFiles": [
-    "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
+    "jornadas/panorama-biblico/01-01-01-01-a-criacao.md",
+    "jornadas/panorama-biblico/01-01-00-00-pentateuco.md",
+    "jornadas/panorama-biblico/01-00-00-00-panorama-biblico.md",
+    "jornadas/panorama-biblico/01-01-01-02-adao-e-eva.md",
+    "03-teste.md",
+    "trilha-historicos.md",
+    "jornadas/panorama-biblico/01-01-01-00-genesis.md",
+    "jornadas/panorama-biblico/Pentateuco/1.Gênesis",
+    "Gene",
+    "jornadas/panorama-biblico/Pentateuco",
+    "jornadas/panorama-biblico/MAPA-DA-JORNADA.md",
+    "jornadas/panorama-biblico/secao-antigo-testamento.md",
     "jornadas/panorama-biblico/01 - Gênesis - A Criação.md",
-    "jornadas/panorama-biblico/Tema - Gênesis.md",
     "jornadas/panorama-biblico/Trilha - Pentateuco.md",
+    "jornadas/panorama-biblico/Divisão - Origens.md",
+    "jornadas/panorama-biblico/Seção - Antigo Testamento.md",
+    "jornadas/panorama-biblico/Tema - Gênesis.md",
+    "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/01-a-criacao.md",
     "jornadas/panorama-biblico/Jornada - Panorama Bíblico.md",
     "jornadas/panorama-biblico/01-antigo-testamento/01-pentateuco/01-genesis/_tema.md"
   ]

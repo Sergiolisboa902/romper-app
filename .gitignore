@@ -2,6 +2,18 @@
 node_modules/
 .npm/
 
+# Next.js
+.next/
+out/
+build/
+
+# Variáveis de Ambiente (SENSÍVEL)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
 # IDEs e Editores
 .vscode/
 .idea/

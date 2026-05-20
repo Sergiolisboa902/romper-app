@@ -1,0 +1,21 @@
+{
+  "character": "moises",
+  "style": "2D Flat Illustration, friendly, premium mobile game, vibrant colors, soft cel-shading",
+  "canvas": {
+    "width": 1024,
+    "height": 1024,
+    "background": "transparent",
+    "format": "png"
+  },
+  "animations": {
+    "idle": ["moises_idle_1.png", "moises_idle_2.png"],
+    "walk": ["moises_walk_1.png", "moises_walk_2.png", "moises_walk_3.png", "moises_walk_4.png"],
+    "run": ["moises_run_1.png", "moises_run_2.png", "moises_run_3.png", "moises_run_4.png", "moises_run_5.png", "moises_run_6.png"],
+    "jump": ["moises_jump_1.png", "moises_jump_2.png", "moises_jump_3.png"],
+    "attack": ["moises_attack_1.png", "moises_attack_2.png", "moises_attack_3.png", "moises_attack_4.png"],
+    "hurt": ["moises_hurt_1.png", "moises_hurt_2.png"],
+    "die": ["moises_die_1.png", "moises_die_2.png", "moises_die_3.png", "moises_die_4.png"],
+    "emotes": ["moises_emote_happy.png", "moises_emote_sad.png", "moises_emote_angry.png"]
+  },
+  "notes": "Use consistent prompt base and reference images to keep character proportions and colors consistent across frames. Consider an artist pass for final polish and frame-to-frame coherence."
+}
