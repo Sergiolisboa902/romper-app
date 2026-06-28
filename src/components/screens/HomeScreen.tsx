@@ -35,7 +35,8 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onStartLesson, userStats
         const { data: devocional } = await supabase
           .from('devocionais')
           .select('*')
-          .eq('data', searchDate);
+          .eq('data', searchDate)
+          .eq('versao', 'original');
 
         if (devocional && devocional.length > 0) {
            const preferred = devocional.find(d => d.periodo === periodoPref) || devocional[0];
@@ -192,7 +193,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onStartLesson, userStats
         >
           <div className="devotional-content">
             <h3 style={{ fontSize: '1.1rem', color: 'var(--accent-gold)' }}>
-              {todayDevocional ? todayDevocional.topicos[0].titulo : "Alimento Diário"}
+              {todayDevocional?.topicos?.[0]?.titulo || "Alimento Diário"}
             </h3>
             <p style={{ 
               fontStyle: 'italic', 
