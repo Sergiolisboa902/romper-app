@@ -100,7 +100,13 @@ export const DevocionalScreen = () => {
     if (!d) return <div className="section">Devocional não encontrado para este período nesta versão.</div>;
 
     if (version === 'fiel') {
-      const textoCorrido = (d as any).texto_fiel || "";
+      const rawTexto = (d as any).texto_fiel || "";
+      // Remove a 1ª linha se ela começar com "Manhã" ou "Noite" (redundante com o verse-card)
+      const linhas = rawTexto.split('\n');
+      const primeiraLinha = linhas[0].trimStart();
+      const textoCorrido = /^(Manh[ãa]|Noite)/i.test(primeiraLinha)
+        ? linhas.slice(1).join('\n').trimStart()
+        : rawTexto;
       const versiculo = d.versiculo || { texto: '', referencia: '' };
       return (
         <div className="mobile-panel">
