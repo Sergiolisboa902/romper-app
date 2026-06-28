@@ -30,7 +30,7 @@ export const DevocionalScreen = () => {
   const [currentDate, setCurrentDate] = useState(new Date());
   const [devocionais, setDevocionais] = useState<Devocional[]>([]);
   const [activeTab, setActiveTab] = useState<"Manhã" | "Noite">("Manhã");
-  const [version, setVersion] = useState<"original" | "simples" | "fiel">("original");
+  const [version, setVersion] = useState<"original" | "simples" | "fiel">("fiel");
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -200,30 +200,30 @@ export const DevocionalScreen = () => {
             <div className="version-selector-tabs">
               <button 
                 type="button"
-                className={`version-tab-item ${version === 'simples' ? 'active' : ''}`}
-                onClick={() => setVersion('simples')}
+                className={`version-tab-item ${version === 'fiel' ? 'active' : ''}`}
+                onClick={() => setVersion('fiel')}
               >
-                Didática
+                Fiel
               </button>
               <button 
                 type="button"
                 className={`version-tab-item ${version === 'original' ? 'active' : ''}`}
                 onClick={() => setVersion('original')}
               >
-                Interativa
+                Original
               </button>
               <button 
                 type="button"
-                className={`version-tab-item ${version === 'fiel' ? 'active' : ''}`}
-                onClick={() => setVersion('fiel')}
+                className={`version-tab-item ${version === 'simples' ? 'active' : ''}`}
+                onClick={() => setVersion('simples')}
               >
-                Fiel
+                Simples
               </button>
             </div>
             <span className="version-text-label">
-              {version === 'simples' && 'Versão Didática (Simplificada)'}
-              {version === 'original' && 'Linguagem Original (Tópicos)'}
               {version === 'fiel' && 'Linguagem Original (Íntegra)'}
+              {version === 'original' && 'Linguagem Original (Tópicos)'}
+              {version === 'simples' && 'Versão Simplificada (Tópicos)'}
             </span>
           </div>
         </div>
