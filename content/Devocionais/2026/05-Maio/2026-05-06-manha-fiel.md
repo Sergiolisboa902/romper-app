@@ -1,0 +1,25 @@
+---
+data: 2026-05-06
+periodo: Manhã
+versiculo: "1Jo 4:13"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 06/05/2026
+
+> "Nisto conhecemos que estamos nele (…)"
+> — 1Jo 4:13
+
+Você deseja uma casa para sua alma? É sem dinheiro e sem preço (Is 55:1). Ocupará você a casa de meu Senhor, em um contrato de arrendamento por toda a eternidade, nada pagando por isso, nada senão o aluguel de amá-Lo e servi-Lo para sempre? Acaso você receberá Jesus e 'habitará nEle'? Veja, esta casa está mobiliada com tudo aquilo que você precisa.
+
+Ela possui mais riquezas do que você poderá gastar. Aqui, você poderá ter comunhão íntima com Cristo e banquetear-se em Seu amor; aqui, há mesas repletas de alimentos para você viver eternamente; nesta casa, quando cansado, você achará descanso com Jesus, e dela você poderá olhar para fora e ver o próprio céu.
+
+Si você se sente demasiado maltrapilho para tal casa, não se preocupe; há peças de vestuário em seu interior. Si você se sente culpado e condenado, venha; embora esta casa seja muito boa para você, Cristo fará você, dia a dia, bom o suficiente para ela. Jesus irá lavá-lo e purificá-lo, e você será capaz de cantar: 'Nós estamos nEle'.
+
+Tu és muito privilegiado, pois tens uma 'habitação forte' (Sl 71:3), onde estarás sempre seguro. 'Habitando nEle', tens não apenas uma casa perfeita e segura, mas uma casa eterna. Quando este mundo tiver derretido como um sonho, a nossa casa permanecerá, mais sólido que o granito, pois ela é o próprio Deus, em quem 'nós permanecemos'.
+
+---
+> 💬 **Promessa:** "Habitando nEle, tens não apenas uma casa perfeita e segura, mas uma casa eterna."
+
+✨ **Meditação:** Crente, grandemente feliz estejas por ter uma tal morada! Tu és muito privilegiado.

@@ -1,0 +1,25 @@
+---
+data: 2026-05-12
+periodo: Manhã
+versiculo: "Jo 14:21"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 12/05/2026
+
+> "(…) e me manifestarei a ele"
+> — Jo 14:21
+
+O Senhor Jesus dá revelações especiais de Si mesmo ao Seu povo. Existem muitos que poderiam testemunhar a verdade disso em suas próprias experiências. Eles tiveram manifestações de seu Salvador de uma forma particular que nenhuma leitura ou pregação poderia fornecer. Jesus Se agradou em falar as suas almas e desvelar as maravilhas de Sua pessoa.
+
+Eles tiveram suas almas mergulhadas em tamanha felicidade que julgaram estar no céu apesar de lá não estarem, embora bem perto estivessem, em seu limiar. Quando Jesus Se manifesta ao Seu povo é o céu na Terra, é o paraíso em embrião, é a felicidade iniciada. Manifestações especiais exercem uma sagrada influência sobre o coração.
+
+Um dos efeitos será a humildade. Se um homem diz: 'Eu tive manifestações espirituais; eu sou um grande homem', ele nunca teve qualquer comunhão com Jesus, pois 'o Senhor é excelso, atenta todavia para o humilde; mas ao soberbo conhece-o de longe' (Sl 138:6). O Senhor nunca lhes dará qualquer visita de Seu amor.
+
+Santidade certamente se segue. Um homem que não tem santidade nunca teve essa manifestação. 'Não erreis: Deus não se deixa escarnecer' (Gl 6:7). Ele não concederá Seus favores aos ímpios, pois assim como não rejeitará o reto, tampouco respeitará o malfeitor. Haverá três efeitos de nos aproximarmos de Jesus: humildade, felicidade e santidade.
+
+---
+> 💬 **Promessa:** "Haverá três efeitos de nos aproximarmos de Jesus: humildade, felicidade e santidade."
+
+✨ **Meditação:** Manifestações de Cristo são o céu na Terra, o paraíso em embrião e a felicidade iniciada.

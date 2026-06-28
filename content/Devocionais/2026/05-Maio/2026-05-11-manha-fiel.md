@@ -1,0 +1,25 @@
+---
+data: 2026-05-11
+periodo: Manhã
+versiculo: "Mt 28:20"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 11/05/2026
+
+> "(…) eis que eu estou convosco todos os dias (…)"
+> — Mt 28:20
+
+É bom que haja Alguém que é sempre o mesmo e que está sempre conosco. É bom que haja uma rocha firme em meio às ondas do mar da vida. Não construa tua casa sobre as areias movediças de um mundo traiçoeiro, mas estabelece tuas esperanças sobre esta pedra que, durante a chuva e as enchentes, permanece sólida e inamovível.
+
+Minha alma, eu te ordeno, coloque teu tesouro no único armário seguro; armazene tuas jóias onde nunca poderás perdê-las. Põe teu tudo em Cristo; coloque todos os teus afetos sobre a Sua pessoa, toda a tua esperança em Seu mérito, toda a tua confiança em Seu sangue eficaz, toda a tua alegria em Sua presença, e, assim, poderás rir da perda.
+
+Lembre-se que todas as flores nos jardins do mundo se esvaem, e vem o dia em que nada será deixado senão a escura Terra. A sombria e extintora morte apagará a tua vela em breve. Oh! como é doce ter a luz do sol quando a vela se extinguir! Una o teu coração com Aquele que nunca te deixará; confia-te Àquele que vai contigo através da corrente negra.
+
+Vá, triste filho da aflição, conte teus segredos Àquele Amigo que é mais chegado que um irmão (Pv 18:24). Confie todas as tuas preocupações Àquele que nunca será tomado de ti. 'Jesus Cristo é o mesmo, ontem, e hoje, e eternamente' (Hb 13:8). 'Eis que eu estou convosco todos os dias', é suficiente para a minha alma viver.
+
+---
+> 💬 **Promessa:** "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente; Ele nunca será tomado de ti."
+
+✨ **Meditação:** Coloque o teu coração sobre Aquele que permanece eternamente fiel a ti, em meio às ondas do mar da vida.

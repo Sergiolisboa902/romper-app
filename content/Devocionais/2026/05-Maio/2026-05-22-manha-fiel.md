@@ -1,0 +1,25 @@
+---
+data: 2026-05-22
+periodo: Manhã
+versiculo: "Sl 107:7"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 22/05/2026
+
+> "E os levou por caminho direito (…)"
+> — Sl 107:7
+
+Incertezas muitas vezes levam o ansioso crente a perguntar: 'Por que é assim comigo?'. Eu busquei a luz, mas veio escuridão; busquei a paz, mas veio o problema. Ontem, eu podia subir ao topo de Pisga e ver a paisagem; hoje, meu espírito não tem esperanças, porém muitos medos. Faz isso parte do plano de Deus para mim? Sim, é assim mesmo.
+
+O eclipse da vossa fé e a debilidade de sua esperança são apenas parte do método de Deus para fazer você maduro para a herança. Essas provações são para testar sua fé; elas são ondas que o lavam sobre a rocha; são ventos que sopram seu navio mais rapidamente em direção ao porto desejado. 'Assim os leva ao seu porto desejado' (Sl 107:30).
+
+Por honra e desonra, por infâmia e por boa fama, pela abundância e pela pobreza, por todas essas coisas é mantida a vida das vossas almas. Oh, não pense, crente, que suas tristezas estão fora do plano de Deus; elas são partes necessárias. 'Por muitas tribulações nos importa entrar no reino de Deus'. Aprenda a ter 'grande gozo quando cairdes em tentações'.
+
+O Senhor conhece o caminho e nos guia por ele, mesmo que nos pareça tortuoso ou escuro. Tudo está bem desde que governado por Ti. Que minha alma trêmula esteja calma e espere Teu sábio e santo desejo. No final da jornada, veremos que cada passo, por mais difícil que tenha sido, foi parte do 'caminho direito' para nos levar à glória.
+
+---
+> 💬 **Promessa:** "Deus leva o crente ao porto desejado através de todas as circunstâncias da vida."
+
+✨ **Meditação:** Aprenda a ter 'grande gozo quando cairdes em várias tentações', pois elas são partes necessárias do plano de Deus.

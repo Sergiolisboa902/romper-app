@@ -1,0 +1,25 @@
+---
+data: 2026-05-04
+periodo: Noite
+versiculo: "1Pe 1:23"
+versao: fiel
+tags: [devocional, noite, fiel]
+---
+
+# Devocional da Noite (fiel) — 04/05/2026
+
+> "Sendo de novo gerados, não de semente corruptível, mas da incorruptível (…)"
+> — 1Pe 1:23
+
+Pedro exorta os santos a amarem-se 'ardentemente uns aos outros com um coração puro' (1Pe 1:22); ele busca seu argumento na elevada e divina essência que Deus introduziu em Seu povo. Pedro contempla o povo de Deus como herdeiros da glória, príncipes de sangue real, descendentes do Rei dos reis, a mais verdadeira e antiga nobreza da Terra.
+
+'Veja que vos ameis uns aos outros por causa de sua nobre origem, tendo nascido da semente incorruptível; que vos ameis uns aos outros por causa de sua dinastia, sendo descendente de Deus, o Criador de todas as coisas; e que vos ameis uns aos outros por causa de seu destino imortal, pois vocês nunca morrerão, embora a glória da carne desaparecerá'.
+
+O que é um cristão? Si você compará-lo a um rei, o cristão acrescenta santidade sacerdotal à dignidade real. Através de seu novo nascimento, ele está tão acima de seus companheiros como um homem está acima do animal que perece. Certamente ele deve conduzir-se como alguém que não é da multidão, mas escolhido do mundo, distinguido pela graça soberana.
+
+Inscrito entre 'o povo adquirido' (1Pe 2:9), o cristão não pode rastejar no pó como os demais, nem viver segundo a maneira dos cidadãos do mundo. Deixe a dignidade de sua natureza e o brilho de suas perspectivas, ó crentes em Cristo, constranger-vos a vos apegar à santidade e evitar a aparência do mal.
+
+---
+> 💬 **Promessa:** "Vocês nunca morrerão; seu destino é imortal embora a glória da carne desapareça."
+
+✨ **Meditação:** Reconheça a verdadeira dignidade de sua natureza regenerada e viva fazendo jus a ela.

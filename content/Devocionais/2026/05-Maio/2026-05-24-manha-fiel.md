@@ -1,0 +1,25 @@
+---
+data: 2026-05-24
+periodo: Manhã
+versiculo: "Sl 66:20"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 24/05/2026
+
+> "Bendito seja Deus, que não rejeitou a minha oração (…)"
+> — Sl 66:20
+
+Olhando para trás, ficaremos maravilhados como Deus sempre respondeu nossas orações. Lembre-se, cristão, quão frias tem sido tuas orações. Tuas petições foram senão fracas e poucas, distantes daquela humilde e perseverante fé que clama: 'Não te deixarei ir, si não me abençoares'. No entanto, Deus ouviu essas tuas frias orações.
+
+Apesar de deixares de orar como uma vez fizeste, Deus não deixou de abençoar. Quando negligenciaste o propiciatório, Deus não o abandonou, porém a nuvem luminosa da 'Shekinah' sempre foi visível entre as asas dos querubins. É maravilhoso que o Senhor considere esses espasmos intermitentes de importunação.
+
+Que Deus Ele é para ouvir as orações daqueles que vêm a Ele quando premidos por necessidades, mas O negligenciam quando recebem a misericórdia; aqueles que se aproximam dEle quando são forçados a vir, mas quase se esquecem de Lhe falar quando as misericórdias são abundantes e as tristezas são poucas.
+
+Deixe Sua graciosa bondade em ouvir tais orações tocar nossos corações para que possamos ser achados 'orando em todo o tempo com toda a oração e súplica no Espírito' (Ef 6:18). Que o privilégio de sermos ouvidos nos leve a uma comunhão mais constante e profunda com o nosso Deus Pai.
+
+---
+> 💬 **Promessa:** "Deus não rejeitou a sua oração nem apartou de você a Sua misericórdia."
+
+✨ **Meditação:** Que a bondade de Deus em ouvir nossas pobres orações nos motive a orar em todo o tempo no Espírito.

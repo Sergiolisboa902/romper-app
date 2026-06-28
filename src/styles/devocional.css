@@ -398,3 +398,57 @@
   .dev-title { font-size: 1.6rem; }
   .mobile-panel[style*="display: none"] { display: none !important; }
 }
+
+/* ---- Seletor de Versão de 3 Estados ---- */
+.version-selector-tabs {
+  display: flex;
+  background: rgba(31, 78, 121, 0.08);
+  border-radius: 50px;
+  padding: 4px;
+  width: 100%;
+  max-width: 280px;
+  margin: 0.5rem auto 0;
+  border: 1px solid rgba(31, 78, 121, 0.05);
+}
+
+.version-tab-item {
+  flex: 1;
+  padding: 0.5rem 0.8rem;
+  border: none;
+  border-radius: 50px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  cursor: pointer;
+  background: transparent;
+  color: var(--text-soft);
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+.version-tab-item.active {
+  background: var(--blue-dark);
+  color: white;
+  box-shadow: 0 2px 8px rgba(31, 78, 121, 0.2);
+}
+
+/* ---- Fiel Card (Visual Minimalista Clássico) ---- */
+.fiel-card {
+  background: #fdfbf7; /* Papel suave clássico */
+  border-radius: 14px;
+  padding: 2rem 1.8rem;
+  box-shadow: 0 4px 20px rgba(94, 82, 60, 0.06);
+  border: 1px solid #f2ede2;
+  margin-bottom: 1.2rem;
+  animation: fadeUp 0.6s ease both;
+}
+
+.fiel-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: #2c2519; /* Tinta clássica suave */
+  text-align: justify;
+  white-space: pre-wrap; /* Preserva quebras de parágrafo */
+}
+

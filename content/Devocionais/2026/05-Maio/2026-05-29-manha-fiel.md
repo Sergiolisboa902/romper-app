@@ -1,0 +1,25 @@
+---
+data: 2026-05-29
+periodo: Manhã
+versiculo: "Sl 45:7"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 29/05/2026
+
+> "Tu odeias a impiedade (…)"
+> — Sl 45:7
+
+Dificilmente poderá haver bondade em um homem se ele não estiver irado com o pecado. Quem ama a verdade deve odiar todo caminho de falsidade; quão nosso Senhor Jesus o odiava quando veio a tentação! Três vezes O atacou, porém sempre se defrontou com: 'Para trás de mim, Satanás'. Jesus demonstrou Seu ódio em lágrimas de piedade e em palavras severas contra os hipócritas.
+
+Jesus sobremaneira odiava a maldade que sangrou até ferir-Lhe o coração; Ele morreu para que ela morresse; Ele foi enterrado para que ela fosse enterrada; e Ele ressuscitou para esmagá-la para sempre sob Seus pés. Cristo está no Evangelho, e este Evangelho se opõe à maldade em todas as suas formas. Impiedade veste a si mesma em justas vestes, mas os preceitos de Jesus a expulsam.
+
+No coração onde Jesus reina, que guerra há entre Cristo e Belial! E quando nosso Redentor voltar para ser nosso Juiz, estas palavras trovejarão: 'Apartai-vos de mim, malditos', manifestando Seu repúdio à iniquidade. Tão caloroso como é o Seu amor para com os pecadores, tão caloroso é o Seu ódio ao pecado; tão perfeita como é a Sua justiça, tão completa será a destruição da maldade.
+
+Ó glorioso campeão da justiça e destruidor do mal, 'por isso Deus, o teu Deus, te ungiu com óleo de alegria mais do que a teus companheiros' (Hb 1:9). Sejamos seguidores de Cristo no Seu ódio sagrado por tudo que é impio, buscando a pureza de coração e a retidão de vida que Ele exemplificou e que a Sua graça nos capacita a cultivar dia após dia.
+
+---
+> 💬 **Promessa:** "Deus ungiu o Campeão da Justiça com óleo de alegria acima de todos os Seus companheiros."
+
+✨ **Meditação:** Aquele que ama a verdade deve necessariamente odiar a falsidade; que o nosso ódio ao pecado seja proporcional ao nosso amor por Cristo.

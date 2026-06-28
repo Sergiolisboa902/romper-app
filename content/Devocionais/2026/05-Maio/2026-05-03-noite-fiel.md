@@ -1,0 +1,25 @@
+---
+data: 2026-05-03
+periodo: Noite
+versiculo: "Sl 46:1"
+versao: fiel
+tags: [devocional, noite, fiel]
+---
+
+# Devocional da Noite (fiel) — 03/05/2026
+
+> "socorro bem presente (…)"
+> — Sl 46:1
+
+As bênçãos da aliança não foram destinadas para serem apenas observadas, mas sim, apropriadas. Até mesmo o nosso Senhor Jesus nos é dado para o nosso uso presente. Crente, tu não fazes uso de Cristo como deverias fazer. Quando estás em apuros, por que não contas a Ele toda a tua dor? Será que Ele não tem um coração compreensivo, ou não pode te confortar ou aliviar? Tu vais para os teus amigos, economizando teu melhor Amigo.
+
+Estás sobrecarregado com teus pecados neste dia? Aqui está a fonte cheia de sangue: use-a, santo, use-a. Acaso tens novamente um sentimento de culpa contra ti? A graça perdoadora de Jesus pode ser provada repetidas vezes. Venha sempre a Ele para a purificação. Lastimas a tua fraqueza? Ele é a tua força; por que não te inclinas sobre Ele?
+
+Tu te sentes despido? Venha, alma, e vista o Seu manto de justiça. Não fique olhando para Ele, mas use-O. Despe a tua própria justiça e também os teus medos; veste o alvo e justo linho, pois ele foi feito para ser usado. Tu te sentes doente? Puxe o sino noturno da oração e chame o Médico Amado! Ele te dará o cordial que irá te reviver.
+
+Tu és pobre, porém tens 'um parente, um homem valente e poderoso' (Rt 2:1). Porventura não irás ter com Ele para pedir-Lhe que te dê Sua abundância? Não há nada que Cristo mais desgoste do que Seu povo fazer pouco caso dEle e não usá-Lo. Ele gosta de ser utilizado por nós. Quanto mais encargos colocamos sobre Seus ombros, mais precioso Ele será para nós.
+
+---
+> 💬 **Promessa:** "Quanto mais encargos colocamos sobre Seus ombros, mais precioso Ele será para nós."
+
+✨ **Meditação:** Sejamos simples com Ele, não retrocedendo, endurecidos ou frios.

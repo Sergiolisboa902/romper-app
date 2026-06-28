@@ -30,7 +30,7 @@ export const DevocionalScreen = () => {
   const [currentDate, setCurrentDate] = useState(new Date());
   const [devocionais, setDevocionais] = useState<Devocional[]>([]);
   const [activeTab, setActiveTab] = useState<"Manhã" | "Noite">("Manhã");
-  const [version, setVersion] = useState<"original" | "simples">("original");
+  const [version, setVersion] = useState<"original" | "simples" | "fiel">("original");
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -44,11 +44,13 @@ export const DevocionalScreen = () => {
       // Como os dados estão salvos com o ano 2026, vamos "mapear" a busca para esse ano base.
       const searchDate = `2026-${String(mes).padStart(2, '0')}-${String(dia).padStart(2, '0')}`;
 
+      const dbVersion = version === 'fiel' ? 'original' : version;
+
       const { data, error } = await supabase
         .from("devocionais")
         .select("*")
         .eq("data", searchDate)
-        .eq("versao", version);
+        .eq("versao", dbVersion);
 
       if (!error && data && data.length > 0) {
         setDevocionais(data);
@@ -98,6 +100,44 @@ export const DevocionalScreen = () => {
 
   const renderPanel = (d: Devocional | undefined, type: "manha" | "noite") => {
     if (!d) return <div className="section">Devocional não encontrado para este período nesta versão.</div>;
+
+    if (version === 'fiel') {
+      const textoCorrido = (d as any).texto_fiel || "";
+      return (
+        <div className="mobile-panel">
+          <div className={`verse-card ${type}`}>
+            <p className="verse-text">{d.versiculo.texto}</p>
+            <div className="verse-ref">{d.versiculo.referencia}</div>
+          </div>
+
+          <div className="fiel-card">
+            {textoCorrido ? (
+              <p className="fiel-text">{textoCorrido}</p>
+            ) : (
+              <div style={{ textAlign: 'center', color: 'var(--text-soft)', padding: '20px 0' }}>
+                <p>Texto clássico na íntegra em processamento.</p>
+                <p style={{ fontSize: '0.8rem', marginTop: 10, opacity: 0.8 }}>
+                  Por favor, utilize a versão Interativa ou Didática enquanto isso.
+                </p>
+              </div>
+            )}
+          </div>
+
+          {d.promessa && (
+            <div className="promise">
+              {d.promessa}
+            </div>
+          )}
+
+          {d.meditacao && (
+            <div className="reflection">
+              <div className="reflection-label">✨ Meditação</div>
+              <p className="reflection-text">{d.meditacao}</p>
+            </div>
+          )}
+        </div>
+      );
+    }
 
     return (
       <div className="mobile-panel">
@@ -155,18 +195,35 @@ export const DevocionalScreen = () => {
             {activeTab === "Manhã" ? manha?.versiculo.referencia : noite?.versiculo.referencia}
           </p>
 
-          {/* Single Toggle Switch under Title */}
+          {/* Seletor de Versão de 3 Estados */}
           <div className="version-toggle-container">
-            <div 
-              className={`version-switch ${version}`}
-              onClick={() => setVersion(version === 'original' ? 'simples' : 'original')}
-            >
-              <div className="switch-handle"></div>
-              <span className="switch-label left">O</span>
-              <span className="switch-label right">S</span>
+            <div className="version-selector-tabs">
+              <button 
+                type="button"
+                className={`version-tab-item ${version === 'simples' ? 'active' : ''}`}
+                onClick={() => setVersion('simples')}
+              >
+                Didática
+              </button>
+              <button 
+                type="button"
+                className={`version-tab-item ${version === 'original' ? 'active' : ''}`}
+                onClick={() => setVersion('original')}
+              >
+                Interativa
+              </button>
+              <button 
+                type="button"
+                className={`version-tab-item ${version === 'fiel' ? 'active' : ''}`}
+                onClick={() => setVersion('fiel')}
+              >
+                Fiel
+              </button>
             </div>
             <span className="version-text-label">
-              {version === 'original' ? 'Linguagem Original' : 'Versão Simples'}
+              {version === 'simples' && 'Versão Didática (Simplificada)'}
+              {version === 'original' && 'Linguagem Original (Tópicos)'}
+              {version === 'fiel' && 'Linguagem Original (Íntegra)'}
             </span>
           </div>
         </div>

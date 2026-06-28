@@ -1,0 +1,25 @@
+---
+data: 2026-05-10
+periodo: Manhã
+versiculo: "1Co 15:20"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 10/05/2026
+
+> "Mas de fato Cristo ressuscitou dentre os mortos (…)"
+> — 1Co 15:20
+
+Todo o fundamento do Cristianismo repousa sobre o fato que 'Cristo ressuscitou dentre os mortos', porque 'se Cristo não ressuscitou, é vã a vossa fé'. A divindade de Cristo encontra sua prova mais segura em Sua ressurreição, uma vez que Ele foi 'declarado Filho de Deus em poder pela ressurreição dentre os mortos' (Rm 1:4).
+
+A soberania de Cristo apoia-se em Sua ressurreição, 'porque foi para isto que morreu Cristo, para ser Senhor, tanto dos mortos, como dos vivos'. Mais uma vez, a nossa justificação está relacionada com a triunfante vitória de Cristo sobre a morte, 'o qual por nossos pecados foi entregue, e ressuscitou para nossa justificação' (Rm 4:25).
+
+A nossa própria regeneração está conectada a Sua ressurreição, pois fomos 'gerados de novo para uma viva esperança, pela ressurreição de Jesus Cristo'. E a maior certeza de nossa ressurreição final descansa aqui: se o Espírito Daquele que ressuscitou a Jesus habita em vós, Ele também vivificará os vossos corpos mortais.
+
+Se Cristo não ressuscitou, então não ressuscitaremos; mas se Ele ressuscitou, então aqueles que dormem em Cristo não pereceram. Assim, o fio de prata da ressurreição corre através de todas as bênçãos do crente, desde sua regeneração até sua eterna glória, unindo-as indubitavelmente. Como se alegrará que isso esteja estabelecido: Cristo ressuscitou!
+
+---
+> 💬 **Promessa:** "O fio de prata da ressurreição corre através de todas as bênçãos do crente, unindo-as para a glória eterna."
+
+✨ **Meditação:** Como se alegrará o coração ao saber que está estabelecido indubitavelmente: 'Cristo ressuscitou dentre os mortos'.

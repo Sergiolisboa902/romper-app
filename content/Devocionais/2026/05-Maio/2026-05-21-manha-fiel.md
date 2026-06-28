@@ -1,0 +1,25 @@
+---
+data: 2026-05-21
+periodo: Manhã
+versiculo: "1Pe 2:3"
+versao: fiel
+tags: [devocional, manha, fiel]
+---
+
+# Devocional da Manhã (fiel) — 21/05/2026
+
+> "Se é que já provastes que o Senhor é benigno"
+> — 1Pe 2:3
+
+'Se'; então, essa não é uma universal, porém uma especial misericórdia, e é necessário saber se nós conhecemos a graça de Deus pela experiência interior. Não há favor espiritual que não possa ser tema de introspecção. Ninguém deve se contentar enquanto houver sequer um 'si' sobre o fato de ter provado que o Senhor é benigno.
+
+Não devemos descansar sem uma desesperada luta para agarrar o Salvador nos braços da fé e dizer: 'Eu sei em quem tenho crido'. Não descanse até que tenhas plena certeza da tua importância em Jesus. Não deixe que nada te satisfaça até que, com o infalível testemunho do Espírito Santo, estejas certificado de que és um filho de Deus.
+
+Oh, não brinque aqui; não deixe qualquer 'talvez', ou 'porventura' satisfazer a tua alma. Edifique sobre verdades eternas. Alcance as firmes beneficências de Davi e as retenha com segurança. Que a tua âncora seja lançada até o interior do véu, e que a tua alma esteja ligada a essa âncora por um cabo que não se romperá.
+
+Avance para além desses tristes 'si' e 'talvez'; não permaneça mais no deserto de dúvidas; atravesse o Jordão da desconfiança e entre na Canaã da paz, onde os cananeus ainda permanecem, mas onde a terra não cessa de jorrar leite e mel. Viva na plenitude do favor que Deus preparou para aqueles que nEle confiam.
+
+---
+> 💬 **Promessa:** "Aquele que prova que o Senhor é benigno terá o infalível testemunho do Espírito Santo."
+
+✨ **Meditação:** Não deixe qualquer 'talvez' satisfazer sua alma; edifique sobre verdades eternas e entre na Canaã da paz.
