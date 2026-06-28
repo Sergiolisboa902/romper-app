@@ -101,11 +101,12 @@ export const DevocionalScreen = () => {
 
     if (version === 'fiel') {
       const textoCorrido = (d as any).texto_fiel || "";
+      const versiculo = d.versiculo || { texto: '', referencia: '' };
       return (
         <div className="mobile-panel">
           <div className={`verse-card ${type}`}>
-            <p className="verse-text">{d.versiculo.texto}</p>
-            <div className="verse-ref">{d.versiculo.referencia}</div>
+            <p className="verse-text">{versiculo.texto}</p>
+            <div className="verse-ref">{versiculo.referencia}</div>
           </div>
 
           <div className="fiel-card">
@@ -144,7 +145,7 @@ export const DevocionalScreen = () => {
           <div className="verse-ref">{d.versiculo.referencia}</div>
         </div>
 
-        {d.topicos.map((t, i) => (
+        {(d.topicos || []).map((t, i) => (
           <div key={i} className={`section s${(i % 5) + 1}`}>
             <span className="section-icon">{t.icone}</span>
             <div className="section-title">{t.titulo}</div>
