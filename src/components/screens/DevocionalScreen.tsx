@@ -30,7 +30,7 @@ export const DevocionalScreen = () => {
   const [currentDate, setCurrentDate] = useState(new Date());
   const [devocionais, setDevocionais] = useState<Devocional[]>([]);
   const [activeTab, setActiveTab] = useState<"Manhã" | "Noite">("Manhã");
-  const [version, setVersion] = useState<"original" | "simples" | "fiel">("fiel");
+  const [version, setVersion] = useState<"original" | "simples" | "fiel">("original");
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
