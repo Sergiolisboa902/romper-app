@@ -44,13 +44,11 @@ export const DevocionalScreen = () => {
       // Como os dados estão salvos com o ano 2026, vamos "mapear" a busca para esse ano base.
       const searchDate = `2026-${String(mes).padStart(2, '0')}-${String(dia).padStart(2, '0')}`;
 
-      const dbVersion = version === 'fiel' ? 'original' : version;
-
       const { data, error } = await supabase
         .from("devocionais")
         .select("*")
         .eq("data", searchDate)
-        .eq("versao", dbVersion);
+        .eq("versao", version);
 
       if (!error && data && data.length > 0) {
         setDevocionais(data);
@@ -117,7 +115,7 @@ export const DevocionalScreen = () => {
               <div style={{ textAlign: 'center', color: 'var(--text-soft)', padding: '20px 0' }}>
                 <p>Texto clássico na íntegra em processamento.</p>
                 <p style={{ fontSize: '0.8rem', marginTop: 10, opacity: 0.8 }}>
-                  Por favor, utilize a versão Interativa ou Didática enquanto isso.
+                  Por favor, utilize a versão Original ou Simples enquanto isso.
                 </p>
               </div>
             )}
