@@ -101,12 +101,26 @@ export const DevocionalScreen = () => {
 
     if (version === 'fiel') {
       const rawTexto = (d as any).texto_fiel || "";
-      // Remove a 1ª linha se ela começar com "Manhã" ou "Noite" (redundante com o verse-card)
+      const referencia = (d.versiculo?.referencia || "").trim();
       const linhas = rawTexto.split('\n');
-      const primeiraLinha = linhas[0].trimStart();
-      const textoCorrido = /^(Manh[ãa]|Noite)/i.test(primeiraLinha)
-        ? linhas.slice(1).join('\n').trimStart()
-        : rawTexto;
+      let startIndex = 0;
+
+      // Só processa se o texto começa com "Manhã" ou "Noite"
+      if (/^(Manh[ãa]|Noite)/i.test((linhas[0] || '').trimStart())) {
+        let encontrou = false;
+        // Avança linha a linha até passar a linha que contém a referência do versículo
+        for (let i = 0; i < Math.min(linhas.length, 8); i++) {
+          if (referencia && linhas[i].includes(referencia)) {
+            startIndex = i + 1; // começa APÓS a linha da referência
+            encontrou = true;
+            break;
+          }
+        }
+        // Segurança: se não achou a referência, pula só a 1ª linha
+        if (!encontrou) startIndex = 1;
+      }
+
+      const textoCorrido = linhas.slice(startIndex).join('\n').trimStart();
       const versiculo = d.versiculo || { texto: '', referencia: '' };
       return (
         <div className="mobile-panel">
